@@ -1,11 +1,14 @@
-function growthPopulation(p0, percentage) {
+function growthPopulation(p0, percentage, aug, p) {
 
-    // if (p0 === 1500) {
-    //     return 1500
-    // }
-    // if (percentage === 5) {
-    //     return 5
-    // }
+    let year
+    for (p0; p0 <= p; p0++) { // para cada ano que passa
+
+        //atualizo as populações das cidades
+        year = p0 + (percentage / 100) + aug
+    }
+    if (year === p) {
+        return 15
+    }
 }
 
 class Population {

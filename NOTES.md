@@ -64,4 +64,12 @@ DOMAIN:
 - Make test fail✅ 
 - Create prod code✅ 
 - Make test pass✅ 
-- Commit
+- Commit✅
+
+- Create test "Should return the n number of entire years needed to get a population greater or equal to 5000"✅ 
+- Make test fail✅ 
+- Create prod code✅ 
+- Make test pass✅ 
+
+5º POMODORO: Driver Juliana
+- Refactor code✅ 
