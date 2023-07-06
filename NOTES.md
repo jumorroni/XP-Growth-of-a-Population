@@ -29,7 +29,7 @@ Note:
 Don't forget to convert the percent parameter as a percentage in the body of your function: if the parameter percent is 2 you have to convert it to 0.02.
 
 DOMAIN:
-- p0, percent, aug (inhabitants coming or leaving each year), p (population to equal or surpass)
+- p0, percent, aug (coming or leaving), p (population to equal or surpass)
 - the function nb_year should return n number of entire years needed to get a population greater or equal to p.
 - convert percent 
 
@@ -37,4 +37,12 @@ DOMAIN:
 - Create project ✅ 
 - Set up the environment ✅ 
 - Create DOMAIN ✅ 
-- Commit
+- Commit ✅ 
+
+2º POMODORO: Driver Juliana
+- Understand what is the first test✅ 
+- Create test "Should return the number of population 1500 when is sent by parameter"✅ 
+- Make test fail✅ 
+- Create prod code✅ 
+- Make test pass✅ 
+- Commit✅ 
