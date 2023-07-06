@@ -1,0 +1,27 @@
+{
+  "name": "xp-growth-of-a-population",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest",
+    "test:watch": "jest --watchAll --coverage=true --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jumorroni/XP-Growth-of-a-Population.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jumorroni/XP-Growth-of-a-Population/issues"
+  },
+  "homepage": "https://github.com/jumorroni/XP-Growth-of-a-Population#readme",
+  "dependencies": {
+    "jest": "^29.6.0"
+  }
+}
