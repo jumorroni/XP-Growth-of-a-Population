@@ -46,3 +46,10 @@ DOMAIN:
 - Create prod code✅ 
 - Make test pass✅ 
 - Commit✅ 
+
+3º POMODORO: Driver Juliana
+- Create test "Should return the percentage of population 5 when is sent by parameter"✅ 
+- Make test fail✅ 
+- Create prod code✅ 
+- Make test pass✅ 
+- Commit
