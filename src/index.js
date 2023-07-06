@@ -9,9 +9,11 @@ function growthPopulation(p0, percentage) {
 }
 
 class Population {
-    constructor(p0, percentage) {
+    constructor(p0, percentage, aug, p) {
         this.p0 = p0;
         this.percentage = percentage;
+        this.aug = aug;
+        this.p = p;
     }
 }
 

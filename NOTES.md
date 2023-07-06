@@ -52,4 +52,16 @@ DOMAIN:
 - Make test fail✅ 
 - Create prod code✅ 
 - Make test pass✅ 
+- Commit✅ 
+
+4º POMODORO: Driver Juliana
+- Create test "Should return the number aug 100 when is sent by parameter"✅ 
+- Make test fail✅ 
+- Create prod code✅ 
+- Make test pass✅ 
+
+- Create test "Should return the number p 5000 when is sent by parameter"✅ 
+- Make test fail✅ 
+- Create prod code✅ 
+- Make test pass✅ 
 - Commit
